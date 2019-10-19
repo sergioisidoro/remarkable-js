@@ -2,6 +2,7 @@
 
 #### Btw: If you want to help me build  a browser extension to send simplified PDF versions of webpages, please get in touch.
 
+### Requires JQery
 ```
 // Not auth
 client = remarkableClient(null)
